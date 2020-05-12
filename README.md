@@ -12,7 +12,7 @@ This Project involved using classification algorithms to predict the income leve
   * Naive Bayes
   * Logistic Regression
   * K- Nearest Neighbor (kNN)
-  * Support Vector Classifier 
+  * Support Vector Classifier     
  And finally, a comparison of accuracy across these models was done to finalize the model for prediction.
 #### Skills and Tools :
 EDA and Classification Algorithms
