@@ -3,8 +3,10 @@
 ## 1. Applied Statistics
 
 This project used Hypothesis Testing and Visualization to leverage customer's health information like smoking habits, bmi, age, and gender for checking statistical evidence to make valuable decisions of insurance business like charges for health insurance.
+
 #### Skills and Tools : 
 Hypothesis Testing, Data Visualisation, Statistical Inferences
+
 #### Project Link : https://nbviewer.jupyter.org/github/sahil-pattnayak/Great-Learning-AIML-Projects/blob/master/Applied%20Statistics/Applied%20Statistics%20Project.ipynb
 
 ## 2. Supervised Learning
@@ -15,8 +17,10 @@ This Project involved using classification algorithms to predict the income leve
   * K-Nearest Neighbor (kNN)
   * Support Vector Classifier     
  And finally, a comparison of accuracy across these models was done to finalize the model for prediction.
+
 #### Skills and Tools :
 EDA and Classification Algorithms
+
 #### Project Link : https://nbviewer.jupyter.org/github/sahil-pattnayak/Great-Learning-AIML-Projects/blob/master/Supervised%20Learning/Supervised%20Learning%20%28Classification%29%20Project.ipynb
 
 ## 3. Ensemble Techniques
@@ -34,8 +38,10 @@ This project invovled using different classification alogorithms to predict whet
   * XGBoost Classifier
   * Bagging Classifier    
  And finally, a comparison of accuracy across these models was done to finalize the model for prediction.
+
 #### Skills and Tools :  
 Classification, Decision Trees, Ensemble Techniques
+
 #### Project Link : https://nbviewer.jupyter.org/github/sahil-pattnayak/Great-Learning-AIML-Projects/blob/master/Ensemble%20Techniques/Ensemble%20Techniques%20Project.ipynb
 
 ## 4. Unsupervised Learning
@@ -48,6 +54,7 @@ This project invovled using classification of vehicles into different types base
 
 #### Skills and Tools :  
 Support Vector Classifier, Principal Component Analysis
+
 #### Project Link : https://nbviewer.jupyter.org/github/sahil-pattnayak/Great-Learning-AIML-Projects/blob/master/Unsupervised%20Learning/Unsupervised%20Learning%20Project%20PCA.ipynb
 
 ## 5. Featurization, Model Selection & Tuning
@@ -66,6 +73,7 @@ This project involved feature exploration and selection to predict the strength 
 
 #### Skills and Tools :
 Regression, Decision trees, feature engineering
+
 #### Project Link : https://nbviewer.jupyter.org/github/sahil-pattnayak/Great-Learning-AIML-Projects/blob/master/Featurization%2C%20Model%20Selection%20%26%20Tuning/Project.ipynb
 
 ## 6. Introduction to Neural Network and Deep Learning
@@ -75,22 +83,26 @@ SVHN is a real-world image dataset for developing object recognition algorithms 
 
 #### Skills and Tools :
 Neural Networks, Deep Learning, Keras, Image Recognition
+
 #### Project Link : https://nbviewer.jupyter.org/github/sahil-pattnayak/Great-Learning-AIML-Projects/blob/master/Introduction%20to%20Neural%20Network%20and%20Deep%20Learning/Neural%20Network%20Project.ipynb
 
 ## 7. Computer Vision - Face Detection
 
-Recognize, identify and classify faces within images using CNN and image recognition algorithms. In this hands-on project, the goal is to build a face recognition system, which includes building a face detector to locate the position of a face in an image and a face identification model to recognize whose face it is by matching it to the existing database of faces.
+In this hands-on project, the goal is to build a face recognition system, which includes building a face detector to locate the position of a face in an image and a face identification model to recognize whose face it is by matching it to the existing database of faces.   Recognize, identify and classify faces within images using CNN and image recognition algorithms. 
 
 #### Skills and Tools :
 Computer Vision, CNN, Transfer Learning, Object detection
+
 #### Project Link : https://nbviewer.jupyter.org/github/sahil-pattnayak/Great-Learning-AIML-Projects/blob/master/Computer%20Vision/Face-Detection%20Project.ipynb
 
 ## 8. Computer Vision - Face Recognition
 
-Face recognition deals with Computer Vision a discipline of Artificial Intelligence and uses techniques of image processing and deep learning. The objective of this project is to build a face recognition system, which includes building a face detector to locate the position of a face in an image and a face identification model to recognize whose face it is by matching it to the existing database of faces.
+The objective of this project is to build a face recognition system, which includes building a face detector to locate the position of a face in an image and a face identification model to recognize whose face it is by matching it to the existing database of faces.  
+Face recognition deals with Computer Vision a discipline of Artificial Intelligence and uses techniques of image processing and deep learning. 
 
 #### Skills and Tools :
 Computer Vision, Keras, CNN, Siamese Networks, Triplet loss
+
 #### Project Link : https://nbviewer.jupyter.org/github/sahil-pattnayak/Great-Learning-AIML-Projects/blob/master/Computer%20Vision/Face_Recognition_Project_AWS.ipynb
 
 ## 9. Natural Language Processing - Sarcasm Detection
@@ -99,4 +111,5 @@ The goal of this hands-on project is to analyse the headlines of the articles fr
 
 #### Skills and Tools :
 LSTM, Classification, GloVe
+
 #### Project Link : https://nbviewer.jupyter.org/github/sahil-pattnayak/Great-Learning-AIML-Projects/blob/master/Natural%20Language%20Processing/NLP_Project_Sarcasm_Detection.ipynb
