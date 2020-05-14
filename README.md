@@ -5,6 +5,7 @@
 This project used Hypothesis Testing and Visualization to leverage customer's health information like smoking habits, bmi, age, and gender for checking statistical evidence to make valuable decisions of insurance business like charges for health insurance.
 #### Skills and Tools : 
 Hypothesis Testing, Data Visualisation, Statistical Inferences
+#### Project Link : https://nbviewer.jupyter.org/github/sahil-pattnayak/Great-Learning-AIML-Projects/blob/master/Applied%20Statistics/Applied%20Statistics%20Project.ipynb
 
 ## 2. Supervised Learning
 
